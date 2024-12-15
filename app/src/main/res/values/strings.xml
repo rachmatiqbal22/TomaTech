@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TomaTech</string>
+    <string name="home">Beranda</string>
+    <string name="library">Library</string>
+    <string name="Detection">Detection</string>
+    <string name="Result">Result</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="diagnose">Diagnose</string>
+    <string name="back_home">Back To Home</string>
+    <string name="welcome">Welcome to TomaTech!</string>
+    <string name="paragraph">This application helps you recognize diseases in tomatoes, making your gardening journey easier and more enjoyable as you nurture healthy and vibrant plants!</string>
+    <string name="confidence_score">Confidance Score</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="diagnosis_text">Diagnosis: %1$s</string>
+    <string name="confidence_score_text">Confidence Score: %.2f%%</string>
+    <string name="error_message">Error in processing image</string>
+    <string name="tomato1">Penyakit 1</string>
+    <string name="description_tomato1">Deskripsi penyakit 1</string>
+    <string name="tomato2">Penyakit 2</string>
+    <string name="description_tomato2">Deskripsi penyakit 2</string>
+    <string name="tomato3">Penyakit 3</string>
+    <string name="description_tomato3">Deskripsi penyakit 3</string>
+    <string name="tomato4">Penyakit 4</string>
+    <string name="description_tomato4">Deskripsi penyakit 4</string>
+    <string name="tomato5">Penyakit 5</string>
+    <string name="description_tomato5">Deskripsi penyakit 5</string>
+    <string name="try_it">Try It</string>
+
+
+</resources>
